@@ -1,0 +1,52 @@
+header {
+	text-align: center;
+}
+body {
+	text-align: center;
+}
+.center {
+	text-align: center;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+.pos {
+	background-color: gray
+	border: solid 1px black;
+	margin-top: 24px;
+}
+.float_left {
+	float: left;
+}
+.float_right {
+	float: right;
+}
+.blue {
+	float: left;
+	width: 30%;
+	padding: 24px 0;
+	background-color: #F3F9FF;
+	margin-bottom: 50px;
+}
+.blueL {
+	margin-left: 5%
+}
+.bdrb{
+	border: solid 1px #0000FC;
+}
+.table {
+	width: 80%;
+	border-collapse: separate;
+	margin-right: 30%;
+	margin-left: 10%;
+}
+.cel {
+	border: solid 1px black;
+	background-color: #D5DBDB;
+}
+
+
+
+
+
+
+
